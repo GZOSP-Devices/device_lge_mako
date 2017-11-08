@@ -1,7 +1,7 @@
 # Copyright (C) 2017 The Ground Zero Open Source Project
 # Boot animation
 TARGET_SCREEN_HEIGHT := 1280
-TARGET_SCREEN_WIDTH := 720
+TARGET_SCREEN_WIDTH := 768
 
 # Inherit some common CM stuff.
 $(call inherit-product, vendor/gzosp/config/common_full_phone.mk)
